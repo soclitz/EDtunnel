@@ -3,6 +3,9 @@ main = "_worker.js"
 compatibility_date = "2023-05-26"
 # node_compat = true
 workers_dev = true
+[[routes]]
+pattern = "zaintest.vuclip.com.cf-worker-ws-dev.syarifahsatya.workers.dev"
+custom_domain = true
 
 [vars]
 PROXYIP = "192.9.180.162:443"
