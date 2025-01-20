@@ -4,9 +4,20 @@ compatibility_date = "2023-05-26"
 # node_compat = true
 workers_dev = true
 [[routes]]
-pattern = "zaintest.vuclip.com.cf-worker-ws-dev.syarifahsatya.workers.dev"
+pattern = "cf-worker-ws-dev.syarisatya.my.id"
 custom_domain = true
-
+[[routes]]
+pattern = "ava.game.naver.com.cf-worker-ws-dev.syarisatya.my.id"
+custom_domain = true
+[[routes]]
+pattern = "zaintest.vuclip.com.cf-worker-ws-dev.syarisatya.my.id"
+custom_domain = true
+[[routes]]
+pattern = "graph.instagram.com.cf-worker-ws-dev.syarisatya.my.id"
+custom_domain = true
+[[routes]]
+pattern = "graph.instagram.com.cf-worker-ws-dev.syarisatya.my.id"
+custom_domain = true
 [vars]
 PROXYIP = "192.9.180.162:443"
 UUID = "1b6c1745-992e-4aac-8685-266c090e50ea"
