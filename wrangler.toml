@@ -22,7 +22,7 @@ custom_domain = true
 pattern = "104.26.7.171.cf-worker-ws-dev.syarisatya.my.id"
 custom_domain = true
 [vars]
-#PROXYIP = "192.9.180.162:443"
+# PROXYIP = "192.9.180.162:443"
 UUID = "1b6c1745-992e-4aac-8685-266c090e50ea"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
